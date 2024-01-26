@@ -1,0 +1,31 @@
+{
+  "name": "@silverprivate/tixtoken",
+  "version": "1.0.0",
+  "description": "TIX Token Repo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ideevoog/Toolblox.Token.git"
+  },
+  "author": "Toolblox",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ideevoog/Toolblox.Token/issues"
+  },
+  "homepage": "https://github.com/Ideevoog/Toolblox.Token#readme",
+  "dependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^3.0.0",
+    "@openzeppelin/contracts": "4.9.3",
+    "csv-parser": "^3.0.0",
+    "csv-writer": "^1.6.0",
+    "web3": "^4.1.1"
+  },
+  "devDependencies": {
+    "hardhat": "^2.17.2",
+    "ts-node": "^10.9.1",
+    "typescript": "^5.2.2"
+  }
+}

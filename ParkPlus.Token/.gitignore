@@ -1,0 +1,6 @@
+bin/*
+node_modules/*
+cache/*
+artifacts/*
+coverage/*
+typechain-types/*
